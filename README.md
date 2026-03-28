@@ -7,7 +7,7 @@ AlphaForge is a modular, end-to-end quantitative finance research system built i
 > **Module versions:** The repository contains progressive snapshots (`module2` through `module7`). Use **`module 7/`** as the canonical version. Earlier modules track the build progression.
 
 ---
-![](info.png)
+![](https://github.com/Pankaj-Leo/Quant_Finance_Project/blob/main/image.png)
 
 ## What this project demonstrates
 
