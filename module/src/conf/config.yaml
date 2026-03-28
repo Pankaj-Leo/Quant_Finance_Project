@@ -1,0 +1,9 @@
+data:
+  tickers: ["AAPL", "MSFT", "GOOG", "AMZN"]
+  start_date: "2018-01-01"
+  end_date: "2025-01-01"
+  save_path: "data/raw"
+
+mlflow:
+  tracking_uri: "file:./mlruns"
+  experiment_name: "data_ingest"
